@@ -1,5 +1,13 @@
 ![example workflow](https://github.com/klonyyy/MCUViewer/actions/workflows/build.yaml/badge.svg)
 
+MCUViewer (ранее STMViewer) — это инструмент для отладки микроконтроллеров с графическим интерфейсом и открытым исходным кодом, состоящий из двух модулей.
+
+Средство просмотра переменных — используется для просмотра, регистрации и управления данными переменных в реальном времени с помощью интерфейса отладки (SWDIO / SWCLK / GND)
+Trace Viewer — используется для графического представления выходных данных SWO в реальном времени (SWDIO / SWCLK / SWO / GND)
+Единственное необходимое оборудование - это программатор STLink или JLink.
+
+(https://t.me/ArmAsmEditor/24436/37082)
+
 # Downloads
 To download MCUViewer installer please proceed to the [releases page](https://github.com/klonyyy/MCUViewer/releases).
 
